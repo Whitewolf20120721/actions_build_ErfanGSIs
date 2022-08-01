@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://downloads.droidontime.com/dot11/rolex/vanilla/dotOS-R-v5.1.3-rolex-OFFICIAL-20210812-1129.zip
-  ROM_NAME: Generic
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 
