@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gd-cowtransfer.cdn.cowtransfer.com/cowtransfer/cowtransfer/96567/88467b59-1cf3-4f24-b790-7d898f27c0fa41475433.zip?response-content-disposition=attachment%3B%20filename%3DdotOS-R-v5.2.1-rolex-OFFICIAL-20211123-1604_2.zip%3Bfilename*%3Dutf-8%27%27dotOS-R-v5.2.1-rolex-OFFICIAL-20211123-1604_2.zip&auth_key=1659337804-d2bd29b9b83f4229ad196c9ffcb47534-0-c26a484fcb9aefec746a6cff44fdc942&user_id=1020746575996396500&biz_type=1&channel_code=COW_CN_WEB&business_code=COW_TRANSFER
+  ROM_URL: https://gd-cowtransfer.cdn.cowtransfer.com/cowtransfer/cowtransfer/96567/88467b59-1cf3-4f24-b790-7d898f27c0fa41475433.zip?response-content-disposition=attachment%3B%20filename%3DdotOS-R-v5.2.1-rolex-OFFICIAL-20211123-1604_2.zip%3Bfilename*%3Dutf-8%27%27dotOS-R-v5.2.1-rolex-OFFICIAL-20211123-1604_2.zip&auth_key=1659338581-3d9f293676894a9a95b2fa5db1ddf34c-0-de531f234afca59af80130a2ce790e6d&user_id=1020746575996396500&biz_type=1&channel_code=COW_CN_WEB&business_code=COW_TRANSFER
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
